@@ -12,6 +12,6 @@ python pymod_test.py
 
 System:
 - Windows 10 Pro
-- MSVC Clang 11
+- Clang 11
 - pybind11 v2.7.1
 - carma 0.6.1
